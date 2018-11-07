@@ -21,13 +21,13 @@
 /wd4463
 /wd4838
 /w44668
-/I D:\Games\UE4\UE_4.19\Engine\Source
+/I C:\Storage\SSD2\UE4Projects\UE_4.19\Engine\Source
 /D_HAS_EXCEPTIONS=0
-/I D:\Games\UE4\Proteus_BuildTest\Intermediate\Build\Win64\Proteus_BuildTest\Development\UELinkerFixups
-/Yc"D:\Games\UE4\Proteus_BuildTest\Intermediate\Build\Win64\Proteus_BuildTest\Development\UELinkerFixups\PCH.UELinkerFixups.h"
-/Fp"D:\Games\UE4\Proteus_BuildTest\Intermediate\Build\Win64\Proteus_BuildTest\Development\UELinkerFixups\PCH.UELinkerFixups.h.pch"
-"D:\Games\UE4\Proteus_BuildTest\Intermediate\Build\Win64\Proteus_BuildTest\Development\UELinkerFixups\PCH.UELinkerFixups.cpp"
-/Fo"D:\Games\UE4\Proteus_BuildTest\Intermediate\Build\Win64\Proteus_BuildTest\Development\UELinkerFixups\PCH.UELinkerFixups.h.obj"
+/I C:\Storage\SSD2\UE4Projects\Proteus_BuildTest\Intermediate\Build\Win64\Proteus_BuildTest\Development\UELinkerFixups
+/Yc"C:\Storage\SSD2\UE4Projects\Proteus_BuildTest\Intermediate\Build\Win64\Proteus_BuildTest\Development\UELinkerFixups\PCH.UELinkerFixups.h"
+/Fp"C:\Storage\SSD2\UE4Projects\Proteus_BuildTest\Intermediate\Build\Win64\Proteus_BuildTest\Development\UELinkerFixups\PCH.UELinkerFixups.h.pch"
+"C:\Storage\SSD2\UE4Projects\Proteus_BuildTest\Intermediate\Build\Win64\Proteus_BuildTest\Development\UELinkerFixups\PCH.UELinkerFixups.cpp"
+/Fo"C:\Storage\SSD2\UE4Projects\Proteus_BuildTest\Intermediate\Build\Win64\Proteus_BuildTest\Development\UELinkerFixups\PCH.UELinkerFixups.h.obj"
 /TP
 /GR-
 /W4

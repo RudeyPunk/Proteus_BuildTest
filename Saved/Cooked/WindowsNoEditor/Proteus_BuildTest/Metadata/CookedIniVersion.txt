@@ -1596,7 +1596,7 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:HistoryColor:0=(R=180,G=180
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCommandColor:0=(B=185,G=109,R=144,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=86,G=158,R=86,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="D/Games/UE4/Proteus_BuildTest/Build")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Storage/SSD2/UE4Projects/Proteus_BuildTest/Build")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
