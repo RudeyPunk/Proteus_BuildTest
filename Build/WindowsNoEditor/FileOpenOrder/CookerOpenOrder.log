@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/VOIPSoundClass.uasset" 0
+=======
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/VOIPSoundClass.uasset" 0
+>>>>>>> ccea47eb896b138daba8a7359eb04a6b716d46a3
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 1
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 2
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 3
@@ -232,6 +236,7 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 231
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 232
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 233
+<<<<<<< HEAD
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/ArrowStart.uasset" 234
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 235
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/UI/Widgets/IPConnectMenu.uasset" 236
@@ -286,22 +291,88 @@
 "../../../Engine/Content/BasicShapes/Cube.uasset" 285
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/ENUM_InteractableActorType.uasset" 286
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/BP_InteractableActor.uasset" 287
+=======
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ArrowStart.uasset" 234
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 235
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Widgets/IPConnectMenu.uasset" 236
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Actors/VRDirectIPMenu.uasset" 237
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Actors/VRErrorDialog.uasset" 238
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ControllerEnum.uasset" 239
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ControllerSkinEnum.uasset" 240
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/HMDEnum.uasset" 241
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/HMDMirrorMode.uasset" 242
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/NetworkEnum.uasset" 243
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/VRSettings.uasset" 244
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Textures/MultiMap01.uasset" 245
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Textures/VREssentialKItMap.uasset" 246
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Widgets/HostMenu.uasset" 247
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Actors/VRHostMenu.uasset" 248
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Actors/VRLoadingScreen.uasset" 249
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Widgets/MainMenu.uasset" 250
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Actors/VRMainMenu.uasset" 251
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Widgets/OculusDirectMenu.uasset" 252
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Actors/VROculusDirectMenu.uasset" 253
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand_Skeleton.uasset" 254
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand_Frame3.uasset" 255
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand_Frame4.uasset" 256
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand_Idle.uasset" 257
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand_HandBS.uasset" 258
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand_Frame2.uasset" 259
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand_IndexBS.uasset" 260
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand_ThumbBS.uasset" 261
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand_AnimBP.uasset" 262
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TouchControllers/Controller_Touch_SkeletonC.uasset" 263
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TouchControllers/IDLEANIM.uasset" 264
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TouchControllers/PRESSEDANIM.uasset" 265
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TouchControllers/TEST1D.uasset" 266
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TouchControllers/Controller_Touch_AnimBlueprintC.uasset" 267
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Vive_Controller_V2_Skeleton.uasset" 268
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Vive_Controller_V2_Idle.uasset" 269
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Vive_Controller_V2_PullPose.uasset" 270
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Vive_Controller_V2_Blendspace.uasset" 271
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Vive_Controller_V2_Skeleton_AnimBlueprint.uasset" 272
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 273
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/HandEnum.uasset" 274
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/BI_InteractableActor.uasset" 275
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/BI_SlotActor.uasset" 276
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/Pole_Up_M2.uasset" 277
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ENUM_PickupObjectType.uasset" 278
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/Pole_UP_M.uasset" 279
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Meshes/Cube.uasset" 280
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/BP_PickupObject.uasset" 281
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 282
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 283
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/BP_Slot.uasset" 284
+"../../../Engine/Content/BasicShapes/Cube.uasset" 285
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ENUM_InteractableActorType.uasset" 286
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/BP_InteractableActor.uasset" 287
+>>>>>>> ccea47eb896b138daba8a7359eb04a6b716d46a3
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/MultiplyAdd.uasset" 288
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 289
 "../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 290
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 291
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 292
+<<<<<<< HEAD
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Materials/Opacity_C.uasset" 293
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Materials/Avatar_Exp_M.uasset" 294
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Materials/Avatar_Exp_M_Inst.uasset" 295
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand_Physics.uasset" 296
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand.uasset" 297
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand_BP.uasset" 298
+=======
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/Opacity_C.uasset" 293
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/Avatar_Exp_M.uasset" 294
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/Avatar_Exp_M_Inst.uasset" 295
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand_Physics.uasset" 296
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand.uasset" 297
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Hands/CVR_Hand_BP.uasset" 298
+>>>>>>> ccea47eb896b138daba8a7359eb04a6b716d46a3
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 299
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 300
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 301
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 302
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 303
+<<<<<<< HEAD
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Materials/MF_OccludedPixels.uasset" 304
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Materials/TeleportMCP.uasset" 305
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Materials/M_ArcEndpoint.uasset" 306
@@ -382,12 +453,99 @@
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/MainMenu_BuiltData.uasset" 381
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Mirror/MirrorRenderTarget.uasset" 382
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Mirror/Mirror_MAT.uasset" 383
+=======
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/MF_OccludedPixels.uasset" 304
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/TeleportMCP.uasset" 305
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/M_ArcEndpoint.uasset" 306
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TeleportationBP/ArcEndPointBP.uasset" 307
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Meshes/BeaconDirection.uasset" 308
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TeleportationBP/ArrowBP.uasset" 309
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/M_TeleportPreviews.uasset" 310
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/MI_ChaperoneOutline.uasset" 311
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Meshes/1x1_cube.uasset" 312
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TeleportationBP/Limits.uasset" 313
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TeleportationBP/SplineBP.uasset" 314
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/MI_TeleportCylinderPreview.uasset" 315
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 316
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TeleportationBP/T_Cylinder.uasset" 317
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TouchControllers/Controller_Mat_MC.uasset" 318
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TouchControllers/Controller_Shinny_MC.uasset" 319
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TouchControllers/Controller_Touch_PhysicsAssetC.uasset" 320
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TouchControllers/Controller_TouchC.uasset" 321
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TouchControllers/Controller_Touch_BP_C.uasset" 322
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Skins/Controller_Vive_Mask.uasset" 323
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Skins/controller_vive_substanceambient_occlusion.uasset" 324
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Skins/controller_vive_substancenormal.uasset" 325
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Skins/Controller_Vive_Texture.uasset" 326
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Skins/Controller_Vive_MAT.uasset" 327
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Vive_Controller_V2_PhysicsAsset.uasset" 328
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Vive_Controller_V2.uasset" 329
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/ViveController_BP.uasset" 330
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/VR_HapticCurve.uasset" 331
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/M_SplineArcMat.uasset" 332
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Skins/Skin_Apperture_Orange.uasset" 333
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Skins/Controller_Apperture_Orange.uasset" 334
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Skins/Skin_Carbon_Fiber.uasset" 335
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Skins/Controller_Carbon_Fiber.uasset" 336
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Skins/Skin_Tron_Aqua.uasset" 337
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Skins/Controller_Tron_Aqua.uasset" 338
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Skins/Skin_Tron_Clu.uasset" 339
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveControllers/Skins/Controller_Tron_Clu.uasset" 340
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/GripEnum.uasset" 341
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Meshes/BeamMesh.uasset" 342
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/MotionControllerBP.uasset" 343
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/Avatar01_MCP.uasset" 344
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/Avatar01_Material.uasset" 345
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Head/Avatar_Head.uasset" 346
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Head/Head_BP.uasset" 347
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Meshes/CUBE_PAWN.uasset" 348
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Meshes/Pole.uasset" 349
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TeleportationBP/Pole_BP.uasset" 350
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Widgets/KeyboardW.uasset" 351
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Actors/VRKeyboardInnerMenu.uasset" 352
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Actors/VRKeyboardMenu.uasset" 353
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveTracker/Black_M.uasset" 354
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveTracker/Blue_M.uasset" 355
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveTracker/LED_M.uasset" 356
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveTracker/Yellow_M.uasset" 357
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveTracker/ViveTracker_S.uasset" 358
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/ViveTracker/ViveTrackerBP.uasset" 359
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/VR_PlayerState.uasset" 360
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Mirror/SpectatorRenderTarget.uasset" 361
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/AvatarMaster.uasset" 362
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/PlayerSettings.uasset" 363
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/PlayerSaveGame.uasset" 364
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Textures/AVATAR_01.uasset" 365
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Textures/AVATAR_01_I.uasset" 366
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Textures/AVATAR_02.uasset" 367
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Textures/AVATAR_02_I.uasset" 368
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Textures/AVATAR_03.uasset" 369
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Textures/AVATAR_03_I.uasset" 370
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Textures/AVATAR_04.uasset" 371
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Textures/AVATAR_04_I.uasset" 372
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Widgets/OptionsMenu.uasset" 373
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Actors/VROptionsMenu.uasset" 374
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Widgets/ActiveSessions.uasset" 375
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Widgets/Oculusmatches.uasset" 376
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Widgets/Steam_LAN_Menu.uasset" 377
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Actors/VRSteam_LANMenu.uasset" 378
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/UI/Widgets/ErrorDialog.uasset" 379
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/GameInfoInstance.uasset" 380
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/MainMenu_BuiltData.uasset" 381
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Mirror/MirrorRenderTarget.uasset" 382
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Mirror/Mirror_MAT.uasset" 383
+>>>>>>> ccea47eb896b138daba8a7359eb04a6b716d46a3
 "../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 384
 "../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 385
 "../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 386
 "../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 387
+<<<<<<< HEAD
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Mirror/Plane1.uasset" 388
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/MainMenu.umap" 389
+=======
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Mirror/Plane1.uasset" 388
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/MainMenu.umap" 389
+>>>>>>> ccea47eb896b138daba8a7359eb04a6b716d46a3
 "../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 390
 "../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 391
 "../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 392
@@ -397,6 +555,7 @@
 "../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 396
 "../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 397
 "../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 398
+<<<<<<< HEAD
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Materials/CON_BATON.uasset" 399
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Materials/CON_HANDLE.uasset" 400
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/Proteus_Multi/Meshes/Baton_Mesh.uasset" 401
@@ -477,3 +636,85 @@
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Windmill.uasset" 476
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_WindmillStalk.uasset" 477
 "../../../../../UE4 Projects/Proteus_BuildTest/Content/VR_Essential_Kit/Maps/VREssentialKitMap.umap" 478
+=======
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/CON_BATON.uasset" 399
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/CON_HANDLE.uasset" 400
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Meshes/Baton_Mesh.uasset" 401
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/InteractiveObjects/Baton_BP.uasset" 402
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Textures/T_MacroVariation.uasset" 403
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/BOOK_M.uasset" 404
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Meshes/Book.uasset" 405
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/InteractiveObjects/Book_BP.uasset" 406
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/InteractiveObjects/Cube_BP.uasset" 407
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/Sword_M.uasset" 408
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Meshes/Gun.uasset" 409
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/InteractiveObjects/Gun_BP.uasset" 410
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Meshes/Hat.uasset" 411
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/InteractiveObjects/Hat_BP.uasset" 412
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Meshes/Sword.uasset" 413
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/InteractiveObjects/Sword_BP.uasset" 414
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/MultiPC.uasset" 415
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/VR_GameState.uasset" 416
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/MultiGM.uasset" 417
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/MultiMap01_BuiltData.uasset" 418
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 419
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 420
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Materials/M_BaseMaterial.uasset" 421
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 422
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/Meshes/1M_Cube.uasset" 423
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/MultiMap01.umap" 424
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/TransitionMap.umap" 425
+"../../../../Proteus_BuildTest/Content/DemoRoom/Materials/DefaultTextMaterialTranslucentUnlit.uasset" 426
+"../../../../Proteus_BuildTest/Content/DemoRoom/Materials/M_DemoWall.uasset" 427
+"../../../../Proteus_BuildTest/Content/ExampleContent/Audio/Physical_Materials/Rubber.uasset" 428
+"../../../../Proteus_BuildTest/Content/DemoRoom/Materials/M_DemoWall_Inst.uasset" 429
+"../../../../Proteus_BuildTest/Content/ExampleContent/Audio/Physical_Materials/Metal.uasset" 430
+"../../../../Proteus_BuildTest/Content/DemoRoom/Materials/M_DemoWall_Inst_3.uasset" 431
+"../../../../Proteus_BuildTest/Content/DemoRoom/Materials/M_DemoWall_Inst_NamePlate.uasset" 432
+"../../../../Proteus_BuildTest/Content/DemoRoom/Materials/M_DemoWall_Inst_BaseFloor_Inst.uasset" 433
+"../../../../Proteus_BuildTest/Content/DemoRoom/BluePrint/BP_DemoDisplay_Enum.uasset" 434
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Materials/CubeMaterial.uasset" 435
+"../../../../Proteus_BuildTest/Content/DemoRoom/Meshes/SM_Base.uasset" 436
+"../../../../Proteus_BuildTest/Content/DemoRoom/Materials/M_DemoWall_Inst2.uasset" 437
+"../../../../Proteus_BuildTest/Content/DemoRoom/Meshes/SM_Base2.uasset" 438
+"../../../../Proteus_BuildTest/Content/DemoRoom/Meshes/SM_Base_FlatWall.uasset" 439
+"../../../../Proteus_BuildTest/Content/DemoRoom/Meshes/SM_BaseRoom.uasset" 440
+"../../../../Proteus_BuildTest/Content/DemoRoom/Meshes/SM_NamePlate.uasset" 441
+"../../../../Proteus_BuildTest/Content/DemoRoom/BluePrint/BP_DemoDisplay.uasset" 442
+"../../../../Proteus_BuildTest/Content/DemoRoom/BluePrint/BP_Locked.uasset" 443
+"../../../../Proteus_BuildTest/Content/DemoRoom/BluePrint/BP_Position.uasset" 444
+"../../../../Proteus_BuildTest/Content/DemoRoom/BluePrint/BP_Turn.uasset" 445
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/MainMenuPC.uasset" 446
+"../../../../Proteus_BuildTest/Content/Proteus_Multi/MainMenuGM.uasset" 447
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Frame.uasset" 448
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Blueprints/BP_Frame.uasset" 449
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Maps/VREssentialKitMap_BuiltData.uasset" 450
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Materials/Key_0.uasset" 451
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Materials/key_1.uasset" 452
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/1M_Cube.uasset" 453
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Button.uasset" 454
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_ButtonBase.uasset" 455
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Chest.uasset" 456
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Chest2.uasset" 457
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Chest2OutterBox.uasset" 458
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_ChestDrawer.uasset" 459
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Door.uasset" 460
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_DoorFrame.uasset" 461
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Hallway_Pipe01_100.uasset" 462
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Hallway_Pipe01_100_Bent_90Tight.uasset" 463
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Hallway_Pipe_Clamp01.uasset" 464
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Hallway_Pipe_TJunction.uasset" 465
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Hallway_Pipe_Valve.uasset" 466
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Hallway_Pipe_Valve_Wheel.uasset" 467
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Key.uasset" 468
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Lever.uasset" 469
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_LeverBase.uasset" 470
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Lock.uasset" 471
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Ram.uasset" 472
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_RamBase.uasset" 473
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Throttle.uasset" 474
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_ThrottleBase.uasset" 475
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_Windmill.uasset" 476
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Meshes/SM_WindmillStalk.uasset" 477
+"../../../../Proteus_BuildTest/Content/VR_Essential_Kit/Maps/VREssentialKitMap.umap" 478
+>>>>>>> ccea47eb896b138daba8a7359eb04a6b716d46a3

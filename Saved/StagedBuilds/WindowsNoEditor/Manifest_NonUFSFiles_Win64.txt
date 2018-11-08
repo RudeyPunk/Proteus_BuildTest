@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Proteus_BuildTest/Binaries/Win64/Proteus_BuildTest.exe	2018-11-05T03:16:40.072Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2018-11-05T00:36:00.715Z
 Engine/Binaries/ThirdParty/Oculus/Audio/Win64/ovraudio64.dll	2018-11-05T00:17:02.476Z
@@ -20,3 +21,27 @@ Engine/Binaries/ThirdParty/Steamworks/Steamv139/Win64/steam_api64.dll	2018-11-05
 Engine/Config/controller.vdf	2018-11-05T00:19:36.586Z
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_10/Win64/openvr_api.dll	2018-11-05T00:17:02.766Z
 Proteus_BuildTest.exe	2018-11-05T03:20:02.513Z
+=======
+Proteus_BuildTest/Binaries/Win64/Proteus_BuildTest.exe	2018-11-05T20:12:41.507Z
+Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2018-10-25T19:41:49.010Z
+Engine/Binaries/ThirdParty/Oculus/Audio/Win64/ovraudio64.dll	2018-10-25T19:39:54.198Z
+Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2018-10-25T19:39:54.489Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2018-10-25T19:39:54.146Z
+Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll	2018-10-25T19:40:01.638Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.dll	2018-10-25T19:39:58.423Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.dll	2018-10-25T19:39:58.450Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3PROFILE_x64.dll	2018-10-25T19:39:58.402Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.dll	2018-10-25T19:39:58.385Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CommonPROFILE_x64.dll	2018-10-25T19:39:58.364Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_ClothingPROFILE_x64.dll	2018-10-25T19:39:58.205Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_LegacyPROFILE_x64.dll	2018-10-25T19:39:58.274Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFrameworkPROFILE_x64.dll	2018-10-25T19:39:58.298Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvClothPROFILE_x64.dll	2018-10-25T19:39:58.320Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2018-10-25T19:39:54.516Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2018-10-25T19:40:01.605Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2018-10-25T19:40:01.612Z
+Engine/Binaries/ThirdParty/Steamworks/Steamv139/Win64/steam_api64.dll	2018-10-25T19:39:58.519Z
+Engine/Config/controller.vdf	2018-10-25T19:40:34.624Z
+Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_10/Win64/openvr_api.dll	2018-10-25T19:39:55.215Z
+Proteus_BuildTest.exe	2018-11-05T20:13:13.161Z
+>>>>>>> ccea47eb896b138daba8a7359eb04a6b716d46a3
